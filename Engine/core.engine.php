@@ -3,8 +3,8 @@
  *@ -------------------------------------------------------------------------
  *@ Main engine file, includes Login/register handler and more key functions|
  *@ Developed by Sir Schiz0ide, all credits go to me                        |
- *@ This is not to be distributed, without my permission					|
- *@ Version 1.0                                      						|
+ *@ This is not to be distributed, without my permission		    |
+ *@ Version 1.0                                      			    |
  *@--------------------------------------------------------------------------
 **/
 class Engine 
