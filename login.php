@@ -6,8 +6,8 @@
  *@ Version 1.0                                      						|
  *@--------------------------------------------------------------------------
 **/
-session_start();
 Ob_start();
+session_start();
 require_once('./Config.php');
 ?>
 
